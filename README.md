@@ -2,7 +2,7 @@
 
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:FF0000&height=180&section=header&text=KUSH%20KUKREJA&fontSize=45&fontColor=FFFFFF&animation=fadeIn&fontAlignY=40)
 
-![Typing SVG](https://readme-typing-svg.demolab.com/?font=Star+Jedi&size=28&duration=4000&pause=1000&color=FF0000&center=true&vCenter=true&width=650&lines=The+dark+side+of+engineering;Power+through+persistence;Bow+before+no+bug)
+![Typing SVG](https://readme-typing-svg.demolab.com/?font=Quicksand&size=28&duration=4000&pause=1000&color=FF0000&center=true&vCenter=true&width=650&lines=The+dark+side+of+engineering;Power+through+persistence;Bow+before+no+bug)
 
 <img src="lightsaber.svg" width="500" alt="lightsaber" />
 
