@@ -19,8 +19,6 @@ Current Rank:  Apprentice, sworn to master every discipline
 Mission:       Build systems that think, move, and dominate on their own
 ```
 
-![divider](https://capsule-render.vercel.app/api?type=waving&color=0:FF0000,100:000000&height=60&section=header)
-
 ## Arsenal of the Sith: Tech and Tools
 
 <p align="left">
@@ -97,9 +95,9 @@ A spatio-temporal transformer that ingests per-second soccer player data, veloci
 
 </div>
 
-![divider](https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:FF0000&height=60&section=header)
-
 ## Sith Archive: Stats
+
+![divider](https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:FF0000&height=60&section=header)
 
 <p align="center">
 <img src="https://streak-stats.demolab.com/?user=KushKuk&theme=dark" />
