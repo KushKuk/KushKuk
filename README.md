@@ -1,8 +1,10 @@
 <div align="center">
 
-# KUSH KUKREJA
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:FF0000&height=180&section=header&text=KUSH%20KUKREJA&fontSize=45&fontColor=FFFFFF&animation=fadeIn&fontAlignY=40)
 
 ![Typing SVG](https://readme-typing-svg.demolab.com/?font=Star+Jedi&size=28&duration=4000&pause=1000&color=FF0000&center=true&vCenter=true&width=650&lines=The+dark+side+of+engineering;Power+through+persistence;Bow+before+no+bug)
+
+<img src="lightsaber.svg" width="500" alt="lightsaber" />
 
 </div>
 
@@ -17,7 +19,7 @@ Current Rank:  Apprentice, sworn to master every discipline
 Mission:       Build systems that think, move, and dominate on their own
 ```
 
----
+![divider](https://capsule-render.vercel.app/api?type=waving&color=0:FF0000,100:000000&height=60&section=header)
 
 ## Arsenal of the Sith: Tech and Tools
 
@@ -95,14 +97,9 @@ A spatio-temporal transformer that ingests per-second soccer player data, veloci
 
 </div>
 
----
+![divider](https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:FF0000&height=60&section=header)
 
 ## Sith Archive: Stats
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=KushKuk&show_icons=true&theme=dark&hide_border=true&title_color=FF0000&icon_color=FF0000&text_color=FFFFFF&bg_color=0D1117" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KushKuk&layout=compact&theme=dark&hide_border=true&title_color=FF0000&text_color=FFFFFF&bg_color=0D1117" />
-</p>
 
 <p align="center">
 <img src="https://streak-stats.demolab.com/?user=KushKuk&theme=dark" />
@@ -112,7 +109,7 @@ A spatio-temporal transformer that ingests per-second soccer player data, veloci
 <img src="https://komarev.com/ghpvc/?username=KushKuk&label=Intruders+Detected&color=FF0000&style=flat-square" />
 </p>
 
----
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:FF0000,100:000000&height=120&section=footer)
 
 <div align="center">
 

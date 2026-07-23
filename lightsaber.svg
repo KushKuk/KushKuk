@@ -1,0 +1,56 @@
+<svg width="700" height="140" viewBox="0 0 700 140" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="6" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+    <linearGradient id="bladeGradient" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#ffffff"/>
+      <stop offset="15%" stop-color="#ff3333"/>
+      <stop offset="100%" stop-color="#ff0000"/>
+    </linearGradient>
+    <linearGradient id="hiltGradient" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#888888"/>
+      <stop offset="50%" stop-color="#2a2a2a"/>
+      <stop offset="100%" stop-color="#888888"/>
+    </linearGradient>
+  </defs>
+
+  <g transform="translate(20,70)">
+    <rect x="0" y="-9" width="70" height="18" rx="4" fill="url(#hiltGradient)" stroke="#000" stroke-width="1"/>
+    <rect x="8" y="-11" width="4" height="22" fill="#111"/>
+    <rect x="20" y="-11" width="4" height="22" fill="#111"/>
+    <rect x="32" y="-11" width="4" height="22" fill="#111"/>
+    <circle cx="60" cy="0" r="6" fill="#ff0000">
+      <animate attributeName="opacity" values="1;0.3;1" dur="1.2s" repeatCount="indefinite"/>
+    </circle>
+
+    <g filter="url(#glow)">
+      <rect x="70" y="-6" width="0" height="12" rx="6" fill="url(#bladeGradient)">
+        <animate attributeName="width"
+          values="0;0;560;560;560;560;0"
+          keyTimes="0;0.05;0.25;0.75;0.85;0.95;1"
+          dur="6s"
+          repeatCount="indefinite"/>
+      </rect>
+    </g>
+
+    <g filter="url(#glow)" opacity="0.9">
+      <rect x="70" y="-6" width="0" height="12" rx="6" fill="url(#bladeGradient)">
+        <animate attributeName="width"
+          values="0;0;556;540;556;548;556;556;0"
+          keyTimes="0;0.05;0.25;0.4;0.55;0.65;0.75;0.85;1"
+          dur="6s"
+          repeatCount="indefinite"/>
+        <animate attributeName="opacity"
+          values="1;1;0.85;1;0.9;1;1;1;1"
+          keyTimes="0;0.05;0.25;0.4;0.55;0.65;0.75;0.85;1"
+          dur="6s"
+          repeatCount="indefinite"/>
+      </rect>
+    </g>
+  </g>
+</svg>
